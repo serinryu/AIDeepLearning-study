@@ -3,4 +3,4 @@
 |제목|기타|
 |---|---|
 |MLP-based-College-Acceptance-Rate|MLP|
-|Celebrity Classifier Service Using Crawling and Transfer Learning(CNN)|CNN|
+|CNN-based-Celebrity-Classification-AI-Service-Using-Transfer-Learning|CNN|
